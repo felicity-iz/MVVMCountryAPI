@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CountryList</string>
+    <string name="introImg">Intro Graphic</string>
+    <string name="introTxt">Hello World</string>
+    <string name="sortaz">A-Z</string>
+    <string name="sortEquality">Inequality</string>
+    <string name="sortArea">Area</string>
+    <string name="borders">Borders on...</string>
+    <string name="areaTxt">Area:</string>
+    <string name="giniTxt">Gini:</string>
+    <string name="km2">m\u00B2</string>
+</resources>
